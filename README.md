@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# Daily Random Knowledge Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React app that displays random facts and knowledge to help you learn something new every day!
+
+Built with React + TypeScript + Vite.
 
 Currently, two official plugins are available:
 
